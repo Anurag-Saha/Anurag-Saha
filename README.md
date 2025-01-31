@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./Anurag Saha.png" alt="logo">
+</div>
 <h1 align="center">Hi 👋, I'm Anurag Saha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
